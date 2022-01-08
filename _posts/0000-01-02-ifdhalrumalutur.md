@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+5200411176 - Muhammad Ifdhal Rumalutur
 Use the left arrow to go back!
